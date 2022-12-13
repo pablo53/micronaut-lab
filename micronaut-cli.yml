@@ -3,4 +3,4 @@ defaultPackage: net.pryszawa.micronautlab.app
 testFramework: spock
 sourceLanguage: kotlin
 buildTool: gradle
-features: [annotation-api, app-name, gradle, http-client, jackson-databind, kotlin, kotlin-application, kotlin-build, logback, micronaut-build, netty-server, readme, shade, spock, yaml]
+features: [annotation-api, app-name, gradle, http-client, jackson-databind, kotlin, kotlin-application, kotlin-build, logback, micronaut-build, netty-server, openapi, readme, rxjava3, rxjava3-http-client, shade, spock, swagger-ui, yaml]
